@@ -4,7 +4,6 @@ This is a 3D Multiplayer Spaceship Shooting Game In C++ under Unreal Engine.
 Game play
 ----
 ![Gameplay](https://j.gifs.com/BBO8mk.gif) 
-[Video URL](https://www.youtube.com/watch?v=zlQvDCe20n0)
 
 License
 ----

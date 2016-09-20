@@ -1,6 +1,8 @@
 # Shooting Star
 This is a 3D Multiplayer Spaceship Shooting Game In C++ under Unreal Engine.
 
+![Game Poster](http://alexzhangji.github.io/img/works/A2.png)
+
 Game play
 ----
 ![Gameplay](https://j.gifs.com/BBO8mk.gif) 
